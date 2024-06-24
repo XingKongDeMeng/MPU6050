@@ -1,0 +1,7 @@
+../Core/Src/quater.c:30:6:gyroOffsetInit	32	static
+../Core/Src/quater.c:50:6:accOffsetInit	32	static
+../Core/Src/quater.c:71:6:imu_data_deal	40	static
+../Core/Src/quater.c:84:6:imu_task	40	static
+../Core/Src/quater.c:131:6:Update_Angle	96	static
+../Core/Src/quater.c:199:6:acc_get_angle	40	static
+../Core/Src/quater.c:211:7:myRsqrt	32	static
